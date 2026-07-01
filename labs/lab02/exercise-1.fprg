@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="exercise-1"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-06-25 03:14:57 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLUozOVAxTlQ7MjAyNi0wNi0yNTswMzowMTo0NyBQTTsyNzUz"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLUozOVAxTlQ7MjAyNi0wNi0yNTswMzoxNDo1NyBQTTsyOzI4Njc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ringgit" type="Integer" array="False" size=""/>
+            <input variable="AmountOfRinggit"/>
+            <assign variable="Amount of Bath" expression="Amount of Ringgit * 2%"/>
+            <output expression="finatAmountOfBath" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
